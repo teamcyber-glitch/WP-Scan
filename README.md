@@ -28,7 +28,7 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * SQL Injection vulnerability scanning
 * User-Friendly UI
 
-###Usage:
+#Usage:
 $ pkg update && pkg upgrade -y
 $ pkg install python && pkg install python2 -y
 $ pkg install python3
