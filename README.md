@@ -28,19 +28,19 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * SQL Injection vulnerability scanning
 * User-Friendly UI
 
-#Usage:
-$ pkg update && pkg upgrade -y
-$ pkg install python && pkg install python2 -y
-$ pkg install python3
-$ pkg install git
-$ pkg install wget
-$ pkg install colorama
-$ git clone https://github.com/teamcyber-glitch/WP-Scan
-$ ls
-$ cd WP-Scan
-$ unzip SCANNER-WP.zip
-$ rm -rf SCANNER-WP.zip
-$ cd SCANNER-WP
-$ ls
-$ python2 wordpress-scanner.py
+# Usage:
+ pkg update && pkg upgrade -y
+ pkg install python && pkg install python2 -y
+ pkg install python3
+ pkg install git
+ pkg install wget
+ pkg install colorama
+ git clone https://github.com/teamcyber-glitch/WP-Scan
+ ls
+ cd WP-Scan
+ unzip SCANNER-WP.zip
+ rm -rf SCANNER-WP.zip
+ cd SCANNER-WP
+ ls
+ python2 wordpress-scanner.py
 
